@@ -5,6 +5,6 @@ int main(){
     printf("Enter a string ");
     scanf("%c%c%c",&a,&b,&c);
     printf("Reversed string is %c%c%c\n",c,b,a);
-
+    printf("DONE");
     return 0;
 }
